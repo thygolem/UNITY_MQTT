@@ -1,0 +1,5 @@
+1669711522: mosquitto version 2.0.15 starting
+1669711522: Config loaded from /mosquitto/config/mosquitto.conf.
+1669711522: Opening ipv4 listen socket on port 1883.
+1669711522: Opening ipv6 listen socket on port 1883.
+1669711522: mosquitto version 2.0.15 running
