@@ -12,3 +12,7 @@
 # ESCENA T-Mqtt
 - Configuración básica. Ver [mqttController.cs](https://github.com/thygolem/UNITY_MQTT/blob/master/Assets/Scripts/mqttController.cs)
     - Configurar "tagOfTheMQTTReceiver" la etiqueta correspondiente a [mqttReceiver.cs](https://github.com/thygolem/UNITY_MQTT/blob/master/Assets/Scripts/mqttReceiver.cs) en la escena !!!
+
+## OSC ~ Touchdesigner
+- Tutorial para TOE+OSC en [LINK](https://www.youtube.com/watch?v=5oOepQ8jOZo&ab_channel=MITHxyz)
+- Recurso para OSC en Unity [LINK](https://assetstore.unity.com/packages/tools/input-management/extosc-open-sound-control-72005)
