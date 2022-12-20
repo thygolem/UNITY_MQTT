@@ -1,0 +1,1 @@
+# Crear imagen SVG a partir de captura de OSM (Open Street Map)
